@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^product/(\w+)/?$ index.php?module=products&view=$1
+RewriteRule ^productes/crear index.php?module=products&view=create_products
+RewriteRule ^home/view index.php?module=main&view=main
+RewriteRule ^shop/view index.php?module=shop&view=shop

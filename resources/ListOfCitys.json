@@ -1,0 +1,225 @@
+[
+  {
+    "sISOCode": "FR",
+    "sName": "Paris",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/415144.jpg"
+  },
+  {
+    "sISOCode": "FR",
+    "sName": "Marsella",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/336326.jpg"
+    
+  },
+  {
+    "sISOCode": "FR",
+    "sName": "Lyon",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/326512.jpg"
+  },
+  {
+    "sISOCode": "FR",
+    "sName": "Toulouse",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/556178.jpg"
+  }
+  ,
+  {
+    "sISOCode": "FR",
+    "sName": "Niza",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/381418.jpg"
+  }
+  ,
+  {
+    "sISOCode": "FR",
+    "sName": "Nantes",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/375898.jpg"
+  }
+  ,
+  {
+    "sISOCode": "FR",
+    "sName": "Lille",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/311886.jpg"
+  }
+  ,
+  {
+    "sISOCode": "FR",
+    "sName": "Burdeos",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/60566.jpg"
+  }
+  ,
+  {
+    "sISOCode": "ES",
+    "sName": "Madrid",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/328022.jpg"
+  }
+  ,
+  {
+    "sISOCode": "ES",
+    "sName": "Barcelona",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/41710.jpg"
+  }
+  ,
+  {
+    "sISOCode": "ES",
+    "sName": "Valencia",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/572981.jpg"
+  }
+  ,
+  {
+    "sISOCode": "ES",
+    "sName": "Bilbao",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/55170.jpg"
+  }
+  ,
+  {
+    "sISOCode": "ES",
+    "sName": "Sevilla",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/506461.jpg"
+  }
+  ,
+  {
+    "sISOCode": "ES",
+    "sName": "Zaragoza",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/613552.jpg"
+  }
+  ,
+  {
+    "sISOCode": "IT",
+    "sName": "Roma",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/461789.jpg"
+  }
+  ,
+  {
+    "sISOCode": "IT",
+    "sName": "Milan",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/348156.jpg"
+  }
+  ,
+  {
+    "sISOCode": "IT",
+    "sName": "Napoles",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/376073.jpg"
+  }
+  ,
+  {
+    "sISOCode": "IT",
+    "sName": "Genova",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/186790.jpg"
+  }
+  ,
+  {
+    "sISOCode": "IT",
+    "sName": "Florencia",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/170853.jpg"
+  }
+  ,
+  {
+    "sISOCode": "IT",
+    "sName": "Venecia",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/577979.jpg"
+  }
+  ,
+  {
+    "sISOCode": "PT",
+    "sName": "Lisboa",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/665920.jpg"
+  }
+  ,
+  {
+    "sISOCode": "PT",
+    "sName": "Porto",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/434086.jpg"
+  }
+  ,
+  {
+    "sISOCode": "PT",
+    "sName": "Braga",
+    "url": "",
+    "foto": "https://u.tfstatic.com/homepage_city/64019.jpg"
+  }
+  ,
+  {
+    "sISOCode": "GB",
+    "sName": "Londres",
+    "url": "",
+    "foto": "http://www.viajesletsgotravel.com/vuelos/images/fondo_salida_LON.jpg"
+  }
+  ,
+  {
+    "sISOCode": "GB",
+    "sName": "Oxford",
+    "url": "",
+    "foto": "http://www.demagazine.co.uk/wp-content/uploads/Keble-College-Oxford-Liddon-Quad-and-Chapel-copy-310x150.jpeg"
+  }
+  ,
+  {
+    "sISOCode": "GB",
+    "sName": "Liverpool",
+    "url": "",
+    "foto": "http://www.sjcapitalgroup.com/b2l/images/resident02_map.jpg"
+  }
+  ,
+  {
+    "sISOCode": "GB",
+    "sName": "Manchester",
+    "url": "",
+    "foto": "http://atsrecruitment.co.uk/blocks/thumbs/thumbnailer.php?src=http://atsrecruitment.co.uk/uploads/news/screen-shot-2015-11-11-at-00-24-17-600x414-15-02-2018-08-47.png&h=150&w=310&zc=1"
+  }
+   ,
+  {
+    "sISOCode": "GB",
+    "sName": "Portsmouth",
+    "url": "",
+    "foto": "https://www.verdict.co.uk/motor-finance-online/wp-content/uploads/sites/6/2017/03/munichF.jpg"
+  },
+  {
+    "sISOCode": "US",
+    "sName": "Nueva York",
+    "url": "",
+    "foto": "http://www.viajesletsgotravel.com/vuelos/images/fondo_salida_NYC.jpg"
+  },
+  {
+    "sISOCode": "US",
+    "sName": "Los Angeles",
+    "url": "",
+    "foto": "https://tripsearchassist.com/wp-content/uploads/wp-best-portfolio/vid_5aafaeb826c38_big_150_350.png"
+  },
+  {
+    "sISOCode": "US",
+    "sName": "Chicago",
+    "url": "",
+    "foto": "https://tripsearchassist.com/wp-content/uploads/wp-best-portfolio/vid_5ab37ae200ba6_big_150_350.png"
+  },
+  {
+    "sISOCode": "US",
+    "sName": "Miami",
+    "url": "",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5G0qTeVyqiQb5KIDGu57vIqPxGcgXgiUlEFSPrsymSfc3YM1y"
+  },
+  {
+    "sISOCode": "US",
+    "sName": "Washington DC",
+    "url": "",
+    "foto": "http://www.cheaprooms.com/public/v1/249602/images/destination-images/washington.jpg"
+  }
+]

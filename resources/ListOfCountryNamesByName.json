@@ -1,0 +1,26 @@
+[
+  {
+    "sISOCode": "FR",
+    "sName": "France"
+  },
+  {
+    "sISOCode": "ES",
+    "sName": "Spain"
+  },
+  {
+    "sISOCode": "IT",
+    "sName": "Italy"
+  },
+  {
+    "sISOCode": "PT",
+    "sName": "Portugal"
+  },
+  {
+    "sISOCode": "GB",
+    "sName": "United Kingdom"
+  },
+  {
+    "sISOCode": "US",
+    "sName": "United States"
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Ejecutar php terminal",
+            "command": "C:\\develop-Xampp\\php\\php.exe C:\\Users\\Enric\\Downloads\\framework\\php.php",
+            "type": "shell",
+            "args": [],
+            "problemMatcher": [
+                
+            ],           
+        },
+        {
+            "label": "Ejecutar php web",
+            "command": "start chrome localhost",
+            "type": "shell",
+            "args": [],
+            "problemMatcher": [
+                
+            ],           
+        }
+    ]
+}

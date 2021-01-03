@@ -1,0 +1,130 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js"></script>
+ <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.0.1/min/dropzone.min.js"></script>
+ <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.0.1/dropzone.css">
+<!--End of dropzone scripts-->
+<script type="text/javascript" src="https://fw-php-mvc-oo-js-jquery-alcaraz12.c9users.io/FW-PHP-MVC-OO-JS-JQuery/modules/products/view/js/controller_products.js"></script>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><h2>Input a new Restaurant:</h2></p>
+ <div class="status alert alert-success" style="display: none"></div>
+<form name="formproduct" id="formproduct">
+    <br>
+    <table>
+        <tr>
+           <td>Name: </td>
+           <td id="error_prodname"><input type="text" name="prodname" id="prodname" required="required" placeholder="Product name"
+             value=""/>
+             <div></div>
+           </td>
+        </tr>
+        <tr>
+           <td>Average price: </td>
+           <td id="error_prodprice"><input type="number" name="prodprice" id="prodprice" min="0" required="required" placeholder="Price"
+            value="0"/>
+            <div ></div>
+          </td>
+        </tr>
+        <tr>
+		   <td>Disponibility date: </td>
+		   <td id="error_date_reception"><input type="text" name="date_reception" id="date_reception" placeholder="Disponibility date" readonly="readonly"
+         value=""/>
+         <div ></div>
+       </td>
+		</tr>
+		<tr>
+		   <td>End disponibility date: </td>
+		   <td id="error_date_expiration"><input type="text" name="date_expiration" id="date_expiration" placeholder="Expiration date" readonly="readonly"
+         value=""/>
+         <div ></div>
+       </td>
+
+		</tr>
+		<tr>
+      <div class="form-group">
+           <td>Ideal for:</td>
+           <td id="error_promotion">
+                  <input type="checkbox" name="ideal[]" class="catCheckbox" value="Famili">Famili  
+		          <input type="checkbox" name="ideal[]" class="catCheckbox" value="Fashion">Fashion 
+			      <input type="checkbox" name="ideal[]" class="catCheckbox" value="Friends">Friends 
+			      <input type="checkbox" name="ideal[]" class="catCheckbox" value="Terrace">Terrace 
+			 
+      </div>
+           </td>
+        </tr>
+        <tr>
+            <td>Promotion:</td>
+            <td>
+                   <input name="promotion" id="promotion" type="radio" class="promotion" value="0" checked>0% 
+				   <input name="promotion" id="promotion" type="radio" class="promotion" value="25"> 25% 
+				   <input name="promotion" id="promotion" type="radio" class="promotion" value="50"> 50% 
+            </td>
+        </tr>
+        <tr>
+            <td>Country: </td>
+			  <td id="error_country">
+			    <select name="country" id="country">
+			    <option selected>Select country</option>
+				</select>
+				<div ></div>
+			</td>
+        </tr>
+        <tr>
+          <td> </td>
+        </tr>
+        <tr>
+            <td>City: </td>
+			  <td id="error_city">
+			    <select name="city" id="city">
+			    <option selected>Select city</option>
+				</select>
+				<div></div>
+			</td>
+        <tr>
+        <tr>
+            <td>kind of food: </td>
+			  <td id="error_food">
+			    <select name="food" id="food">
+			    <option selected>Select food</option>
+				</select>
+				<div></div>
+			</td>
+        </tr>
+        <tr>
+          <td> </td>
+        </tr>
+           <td>Description: </td>
+           <td id="error_proddesc"><textarea rows="4" cols="50" name="proddesc" id="proddesc" placeholder="Product description"
+             value=""></textarea>
+             <div></div>
+           </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <div class="form-group" id="progress">
+            <div id="bar"></div>
+            <div id="percent">0%</div >
+            </div>
+
+            <div class="msg"></div>
+            <br/>
+            <div id="dropzone" class="dropzone"></div><br/>
+          </td>
+        </tr>
+    </table>
+    <br/>
+    <button type="button" name="submit_products" id="submit_products" value="submit">
+      Submit product
+    </button>
+</form>
+<br>
+<br>
+<br>
+<br>
+<br>
