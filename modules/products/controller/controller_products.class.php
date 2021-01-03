@@ -1,14 +1,8 @@
 <?php
 session_start();
-<<<<<<< HEAD
 include (__DIR__ . "/../../../modules/products/utils/functions_products.inc.php");
 include (__DIR__ . "/../../../utils/upload.php");
 include (__DIR__ . "/../../../utils/common.inc.php");
-=======
-include ($_SERVER['DOCUMENT_ROOT'] . "/MIRUTA/modules/products/utils/functions_products.inc.php");
-include ($_SERVER['DOCUMENT_ROOT'] . "/FW-PHP-MVC-OO-JS-JQuery/utils/upload.php");
-include ($_SERVER['DOCUMENT_ROOT'] . "/FW-PHP-MVC-OO-JS-JQuery/utils/common.inc.php");
->>>>>>> master
 
 //////////////////////////////////////////////////////////////// upload
 if ((isset($_GET["upload"])) && ($_GET["upload"] == true)){
