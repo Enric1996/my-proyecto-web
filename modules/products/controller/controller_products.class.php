@@ -1,6 +1,6 @@
 <?php
 session_start();
-include ($_SERVER['DOCUMENT_ROOT'] . "/FW-PHP-MVC-OO-JS-JQuery/modules/products/utils/functions_products.inc.php");
+include ($_SERVER['DOCUMENT_ROOT'] . "/MIRUTA/modules/products/utils/functions_products.inc.php");
 include ($_SERVER['DOCUMENT_ROOT'] . "/FW-PHP-MVC-OO-JS-JQuery/utils/upload.php");
 include ($_SERVER['DOCUMENT_ROOT'] . "/FW-PHP-MVC-OO-JS-JQuery/utils/common.inc.php");
 
